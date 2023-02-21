@@ -1,0 +1,21 @@
+{
+  "Add": "Add",
+  "Add a new lang": "Add a new lang",
+  "Application Tree Categories": "Application Tree Categories",
+  "Are you sure you want to delete the categories belonging to this language ?": "Are you sure you want to delete the categories belonging to this language ?",
+  "Categories deletion": "Categories deletion",
+  "Confirm": "Confirm",
+  "Confirm deletion": "Confirm deletion",
+  "confirm deletion body": "This language will be deleted. Please confirm this action to accomplish it.",
+  "Confirm deletion category body": "Are you sure you want to delete completely this category ? It will be removed from all locales and will not appear anymore in this list.",
+  "Confirm selected categories deletion body": "Are you sure you want to delete completely the selected categories ? They will be removed from all locales and will not appear anymore in this list.",
+  "Delete": "Delete",
+  "Delete this language": "Delete this language",
+  "Download": "Download",
+  "Loading": "Loading",
+  "Locales :": "Langages :",
+  "No options": "No options",
+  "Time has expired, please refresh the page.": "Time has expired, please refresh the page.",
+  "Waiting changes saved message": "Your changes are being saved... Please wait before making further changes.",
+  "Your changes have been saved successfully !": "Your changes have been saved successfully !"
+}

@@ -1,0 +1,141 @@
+{
+  "Address": "Adresas",
+  "City": "Miestas",
+  "Country": "Šalis",
+  "Description": "Aprašymas",
+  "Duration": "Trukmė",
+  "Ends on": "Baigiasi",
+  "First name": "Vardas",
+  "Homemade on demand": "Pagamintas namuose pagal pareikalavimą",
+  "In stock": "Inventoriaus yra",
+  "Last month": "Praeitą mėnesį",
+  "Last name": "Pavardė",
+  "merchant": {
+    "offer_type": {
+      "hybrid": "hibridinis",
+      "product": "gaminys",
+      "service": "Paslauga"
+    }
+  },
+  "Name": "Pavadinimas",
+  "Out of stock": "Nebėra",
+  "Phone": "Telefonas",
+  "Restocking": "Inventorius papildomas",
+  "second": "sekundė",
+  "seconds": "sekundės",
+  "SIREN number": "SIREN numeris",
+  "SIRET number": "SIRET numeris",
+  "Soon out of stock": "Netrukus baigsis",
+  "Start time": "Pradžios laikas",
+  "Starts on": "Prasideda",
+  "status": {
+    "merchant": {
+      "active": "Aktyvus",
+      "deleted": "Pašalintas",
+      "inactive": "Neaktyvus",
+      "paused": "Pristabdytas",
+      "pending": "Laukia eilės",
+      "stopped": "Sustabdytas"
+    },
+    "merchant_order": {
+      "authorization": {
+        "cancelled": "atšauktas"
+      },
+      "cancelled": "Atšauktas",
+      "confirmed": "Patvirtintas",
+      "deleted": "pašalintas",
+      "expired": "Nebegaliojantis",
+      "finalized": "Užbaigtas",
+      "incident_status": {
+        "closed": "Uždarytas",
+        "no_incident": "Incidentų nėra",
+        "pending_customer": "Eilės laukiantis klientas",
+        "pending_merchant": "Eilės laukiantis prekiautojas",
+        "processing": "Apdorojama"
+      },
+      "initial": "Pradinis",
+      "payment": {
+        "authorized": "Mokėjimas sankcionuotas",
+        "failure": "Mokėjimas nepavyko",
+        "partial": {
+          "failure": "Mokėjimas iš dalies nepavyko",
+          "success": "Iš dalies apmokėtas"
+        },
+        "success": "apmokėta",
+        "waiting": "Eilės laukiantis mokėjimas"
+      },
+      "processed": "Apdorotas",
+      "received": "Gautas",
+      "refund": {
+        "partial": "Iš dalies grąžintas mokėjimas"
+      },
+      "return": {
+        "pending": "Vykdomas prekės grąžinimas",
+        "success": "Grąžinta prekė"
+      },
+      "sent": "Išsiųstas"
+    },
+    "product_offer": {
+      "active": "Aktyvus",
+      "banned": "Uždraustas",
+      "deleted": "Deleted",
+      "draft": "Juodraštis",
+      "inactive": "Neaktyvus",
+      "pending": "Laukia eilės",
+      "trashed": "Išmestas"
+    },
+    "quote": {
+      "accepted": "Priimta",
+      "canceled": "Atšauktas",
+      "deleted": "Pašalintas",
+      "done": "Atlikta",
+      "draft": "Juodraštis",
+      "emitted": "Išduota",
+      "modified": "Pakeistas",
+      "refused": "Nepriimtas",
+      "suspended": "Pristabdytas"
+    },
+    "return": {
+      "accepted": "Priimta",
+      "cancelled": "Atšauktas",
+      "closed_by_buyer": "Uždarytas pirkėjo",
+      "closed_by_seller": "Uždarytas pardavėjo",
+      "denied": "Atmestas",
+      "open": "Atviras",
+      "package_received": "Siuntinys gautas"
+    }
+  },
+  "Subslot duration": "Pavaldžiojo laiko diapazono trukmė",
+  "Subslot offset": "Pavaldžiojo laiko diapazono poslinkis",
+  "This month": "Šį mėnesį",
+  "To be released": "Turi pasirodyti",
+  "Today": "Šiandien",
+  "transition": {
+    "quote": {
+      "accept": "Priimti",
+      "cancel": "Atšaukti",
+      "done": "Atlikta",
+      "emit": "Išduoti",
+      "refuse": "Nepriimti"
+    }
+  },
+  "Unknown error. Please contact the marketplace": "Nežinoma klaida. Kreipkitės į prekyvietę",
+  "Yesterday": "Vakar",
+  "Zipcode": "Pašto kodas",
+  "{0} is invalid": "{0} yra netinkamas",
+  "{0} is required": "{0} yra privalomas",
+  "{0} must be a non-negative number": "{0} negali būti neigiamas skaičius",
+  "{0} must be a number": "{0} turi būti skaičius",
+  "{0} must be a valid email": "{0} turi būti tinkamas el. paštas",
+  "{0} must be a valid url": "{0} turi būti tinkamas URL",
+  "{0} must be at least {1} characters": "{0} turi sudaryti bent {1} ženklai (-ų)",
+  "{0} must be at most {1} characters": "{0} turi sudaryti ne daugiau kaip {1} ženklai (-ų)",
+  "{0} must be between {1} and {2}": "{0} turi būti nuo {1} iki {2}",
+  "{0} must be between {1} and {2} characters": "{0} turi būti {1}–{2} ženklai (-ų)",
+  "{0} must be greater than or equal to {1}": "{0} turi būti ne mažesnis už {1}",
+  "{0} must be less than or equal to {1}": "{0} turi būti ne didesnis už {1}",
+  "{0} must be one of: {1}": "{0} turi būti vienas iš: {1}",
+  "{0} must be the same as {1}": "{0} turi būti toks pats kaip ir {1}",
+  "{0} must be {1} characters": "{0} turi sudaryti {1} ženklai (-ų)",
+  "{0} must only contain digits": "{0} turi sudaryti tik skaitmenys"
+}

@@ -1,0 +1,18 @@
+{
+  "Add brand": "Ajouter une marque",
+  "Are you sure you want to delete the brand": "Êtes-vous sûr.e de vouloir supprimer la marque",
+  "Brand": "Marque",
+  "Brands": "Marques",
+  "Cancel": "Annuler",
+  "Confirm": "Confirmer",
+  "Create": "Créer",
+  "Create Brand": "Créer une nouvelle Marque",
+  "Delete": "Supprimer la Marque",
+  "Description": "Description",
+  "Id": "Id",
+  "If you want to enter several key words, please separate them with comas": "Si vous souhaitez entrer plusieurs mots-clés, merci de les séparer par des virgules",
+  "Keywords": "Mots-clés",
+  "Name": "Nom",
+  "Slug": "Slug",
+  "Status": "Statut"
+}

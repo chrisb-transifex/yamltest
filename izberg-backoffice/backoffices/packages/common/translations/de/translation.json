@@ -1,0 +1,132 @@
+{
+  "A new, simpler, and sleeker design": "Ein neues, einfacheres und schlankeres Design",
+  "A redesigned browsing experience that fits your habits": "Eine neu gestaltete Surferfahrung, die Ihren Gewohnheiten entgegenkommt",
+  "Activate Offers": "Angebote aktivieren",
+  "alert": {
+    "unknown_error": "An unknown error has occured. Please try again later, or contact the marketplace if the problem persists."
+  },
+  "An email will be sent to {{email}}. Please check your email inbox later.": "Eine E-Mail wird an {{email}} geschickt. Bitte überprüfen Sie Ihren E-Mail-Eingang später.",
+  "Apply default tax settings": "Standardsteuereinstellungen anwenden",
+  "Are you sure you want to delete?": "Sind Sie sicher, dass Sie löschen wollen?",
+  "Back": "Zurück",
+  "Ban Offers": "Angebote sperren",
+  "Browse a richer and more user-friendly Operator Back-Office!": "Durchsuchen Sie ein reichhaltigeres und benutzerfreundlicheres Operator-Backoffice!",
+  "Cancel": "Abbrechen",
+  "Category": "Category",
+  "Choose": "Choose",
+  "Click on the customer attribute to edit it": "Zum Editieren auf das Kundenattribut klicken",
+  "Close": "Schließen",
+  "Compare all your merchants between each other": "Vergleichen Sie alle Ihre Händler untereinander",
+  "Configure as many customizable dashboards as you wish using a selection of KPI at your disposal.": "Konfigurieren Sie beliebig viele anpassbare Dashboards mit einer Auswahl verfügbarer KPIs.",
+  "Country": "Country",
+  "Create as many customized dashboards as you wish": "Konfigurieren Sie so viele anpassbare Dashboards wie Sie wünschen.",
+  "Currency": "Currency",
+  "Current year": "Current year",
+  "Custom": "Custom",
+  "Dashboard": "Dashboard",
+  "datagrid": {
+    "export": {
+      "error": "An error occurred. The list has not been sent.",
+      "export": "Export",
+      "submit_button": "Exportieren",
+      "success": "Die aktuelle Liste wurde per E-Mail verschickt.",
+      "text": "Sie exportieren gerade die aktuelle Liste. Die exportierte Liste entspricht den aktuellen Filtern, die Sie angewendet haben.",
+      "title": "{{title}} exportieren"
+    },
+    "filter_modal": {
+      "apply": "Apply",
+      "cancel": "Cancel",
+      "choose_a_date": "Choose a date",
+      "title": "Filters"
+    },
+    "filters": {
+      "between": "Between",
+      "exact": "Exact",
+      "greater_than": "Greater than",
+      "greater_than_equal": "Greater than or equal to",
+      "icontains": "Contains",
+      "iendswith": "Ends with",
+      "istartswith": "Starts with",
+      "lower_than": "Lower than",
+      "lower_than_equal": "Lower than or equal to"
+    },
+    "footer": {
+      "row_displayed": "of",
+      "rows_per_page": "Results per page:"
+    },
+    "no_data": "No data"
+  },
+  "date": {
+    "error": {
+      "too_long": "Bitte wählen Sie einen Datumsbereich von weniger als einem Jahr."
+    }
+  },
+  "Day": "Day",
+  "Deactivate Offers": "Angebote deaktivieren",
+  "Delete": "Löschen",
+  "Discover the new Backoffice interface!": "Entdecken Sie die neue Back-Office-Oberfläche!",
+  "Edit": "Bearbeiten",
+  "Email to send export file to": "E-Mail zum Senden der Exportdatei an",
+  "Enjoy a browsing experience redesigned to fit your habits": "Genießen Sie ein Surferlebnis, das Ihren Gewohnheiten entspricht",
+  "Export": "Export",
+  "Export all your orders, with no restrictions": "Exportieren Sie alle Ihre Bestellungen, ohne Einschränkungen",
+  "Export file will be sent to": "Export-Datei wird gesendet an",
+  "form_generator": {
+    "categories": {
+      "cross_attributes": "cross_attributes",
+      "label": "label"
+    },
+    "merchant": {
+      "label": "label"
+    }
+  },
+  "Go to Order Listing": "Zur Bestellliste gehen",
+  "Hour": "Hour",
+  "Ignore": "Ignorieren",
+  "Language": "Language",
+  "Learn more": "Mehr erfahren",
+  "Let's start exploring !": "Beginnen wir mit der Erkundung!",
+  "Loading": "Wird geladen",
+  "Loading...": "Loading...",
+  "Login": "Login",
+  "Manage your users and user invites serenely": "Verwalten Sie Ihre Benutzer und Benutzereinladungen ohne Stress",
+  "Monitor your activity with added precision": "Verfolgen Sie Ihre Aktivität mit verbesserter Präzision",
+  "Month": "Month",
+  "Move offers from Trash": "Angebote aus dem Papierkorb verschieben",
+  "Move offers to Trash": "Angebote in den Papierkorb verschieben",
+  "Next": "Weiter",
+  "No item have been found according to your criteria. Please update your criteria and try again.": "No item have been found according to your criteria. Please update your criteria and try again.",
+  "No results found": "No results found",
+  "No task in progress": "Keine Aufgabe in Bearbeitung",
+  "Order created": "Bestellung erstellt",
+  "Order creation in progress": "Erstellung der Bestellung in Bearbeitung",
+  "Please choose one": "Please choose one",
+  "Please enter both values for {{filterName}}": "Bitte geben Sie beide Werte für {{filterName}} ein",
+  "Previous month": "Previous month",
+  "Previous quarter": "Previous quarter",
+  "Previous year": "Previous year",
+  "Refresh": "Aktualisieren",
+  "Reset Stock": "Bestand zurücksetzen",
+  "Safely switch between your environments": "Wechseln Sie sicher zwischen Ihren Umgebungen",
+  "Save": "Speichern",
+  "SAVE": "SAVE",
+  "Show 1 more item": "1 weiteren Artikel anzeigen",
+  "Show {{number}} more items": "{{Anzahl}} weitere Artikel anzeigen",
+  "Stay on this interface": "Auf dieser Benutzeroberfläche bleiben",
+  "Switch between environments in a simpler and more reassuring way": "Wechseln Sie einfacher und sorgenfreier zwischen Umgebungen",
+  "Task in progress": "Aufgabe in Bearbeitung",
+  "The environment in which you perform all your tests now has a dedicated address and set of credientals. Click on the bottom-left of this page to easily switch between them.": "Die Umgebung, in der Sie alle Ihre Tests durchführen, verfügt jetzt über eine eigene Adresse und einen Satz von Anmeldedaten. Klicken Sie unten links auf dieser Seite, um einfach zwischen ihnen zu wechseln.",
+  "Try the new Back-Office": "Testen Sie das neue Back-Office",
+  "Unban Offers": "Sperre auf Angebote aufheben",
+  "validator": {
+    "required": "required"
+  },
+  "Week": "Week",
+  "Welcome to the new interface! Remember to bookmark this new URL": "Willkommen auf der neuen Oberfläche! Denken Sie daran, diese neue URL mit einem Lesezeichen zu versehen",
+  "Year": "Year",
+  "Your favorite items are now easier to access.": "Ihre Lieblingsartikel sind jetzt leichter zugänglich.",
+  "{{done}}/{{total}} offers updated": "{{done}}/{{total}} Angebote aktualisert",
+  "{{done}}/{{total}} variations updated": "{{done}}/{{total}} Variationen aktiviert",
+  "{{errored}}/{{total}} offers errored": "{{ignored}}/{{total}} Angebote fehlerhaft",
+  "{{ignored}}/{{total}} offers ignored": "{{ignored}}/{{total}} Angebote ignoriert"
+}

@@ -1,0 +1,142 @@
+{
+  "({{number}} elements)": "({{number}} elementów)",
+  "A new version of {{featureName}} has been developed for you to have a better user experience.": "Aby zapewnić Ci większy komfort użytkowania, stworzyliśmy nową wersję {{featureName}}.",
+  "Are you sure?": "Czy na pewno?",
+  "Cancel": "Anuluj",
+  "Category": "Kategoria",
+  "Choose": "Wybierz",
+  "Confirm": "Potwierdź",
+  "Country": "Kraj",
+  "Currency": "Waluta",
+  "Current year": "Aktualny rok",
+  "Custom": "Niestandardowy",
+  "Customer": "Klient",
+  "datagrid": {
+    "column_manager": {
+      "reset": "Resetuj wartości domyślne",
+      "subtitle": "Wybierz kolumny do wyświetlenia",
+      "title": "Skonfiguruj tabelę"
+    },
+    "export": {
+      "error": "Wystąpił błąd. Nie wysłano listy.",
+      "export": "Eksportuj",
+      "success": "Wysłano aktualną listę pocztą elektroniczną.",
+      "text": "Nastąpi wyeksportowanie aktualnej listy. Wyeksportowana lista będzie odpowiadać obecnie zastosowanym przez Ciebie filtrom. Plik eksportu zostanie wysłany na adres {{email}}"
+    },
+    "filter_modal": {
+      "apply": "Zastosuj",
+      "cancel": "Anuluj",
+      "choose_a_date": "Wybierz datę",
+      "title": "Filtry"
+    },
+    "filters": {
+      "between": "Pomiędzy",
+      "exact": "Dokładnie",
+      "greater_than": "Wartość większa od",
+      "greater_than_equal": "Wartość równa lub większa od",
+      "icontains": "Zawiera",
+      "iendswith": "Kończy się na",
+      "istartswith": "Rozpoczyna się od",
+      "lower_than": "Wartość mniejsza od",
+      "lower_than_equal": "Wartość równa lub mniejsza od"
+    },
+    "footer": {
+      "display_per_page": "Elementów na stronie:",
+      "items": "pozycje",
+      "items_out_of": "pozycji z",
+      "of_{{numberOfPages}}": "z {{numberOfPages}}",
+      "row_displayed": "z",
+      "rows_per_page": "Wyników na stronie:"
+    },
+    "no_data": "Brak danych",
+    "toolbar": {
+      "add_new": "Dodaj nowe",
+      "delete": "Usuń",
+      "filter_tooltip": "Lista filtrów",
+      "items_selected": "wybranych pozycji",
+      "manage_columns": "Zarządzaj kolumnami",
+      "refresh": "Odśwież",
+      "search_helptext": "Szukaj wg {{name}}"
+    }
+  },
+  "date": {
+    "from": "od",
+    "to": "do"
+  },
+  "Day": "Dzień",
+  "Dismiss": "Odrzuć",
+  "Don't ask me again": "Nie pytaj ponownie",
+  "editor": {
+    "buttons": {
+      "download_content": "Pobierz zawartość",
+      "edit_content": "Edytuj zawartość",
+      "upload_content": "Przekaż zawartość"
+    }
+  },
+  "email": "adres e-mail",
+  "Export": "Eksportuj",
+  "Export file will be sent to": "Plik eksportu zostanie wysłany na adres",
+  "form_generator": {
+    "categories": {
+      "cross_attributes": "Atrybuty wielu kategorii",
+      "help_text": "Umożliwia pobranie atrybutów dostępnych dla dowolnej kategorii",
+      "label": "Kategorie"
+    },
+    "merchant": {
+      "label": "Wyszukaj handlowca wg nazwy"
+    }
+  },
+  "from": "od",
+  "From": "Od",
+  "Hour": "Godzina",
+  "However you are not yet configured on the new version of the module. Please note that the current version will be deprecated on {{date}}.": "Nie masz jeszcze skonfigurowanej nowej wersji modułu. Pamiętaj, że obecna wersja stanie się przestarzała {{date}}.",
+  "Language": "Język",
+  "Last 12 months": "Ostatnie 12 miesięcy",
+  "Last 24 hours": "Ostatnie 24 godziny",
+  "Last 30 days": "Ostatnie 30 dni",
+  "Last 6 months": "Ostatnie 6 miesięcy",
+  "Last 7 days": "Ostatnie 7 dni",
+  "Loading...": "Ładowanie…",
+  "material_pickers": {
+    "cancel": "Anuluj",
+    "clear": "Wyczyść",
+    "invalid": "Nieznany",
+    "invalid_date": "Nieprawidłowy format daty",
+    "max_date": "Data nie powinna przypadać po dacie maksymalnej",
+    "min_date": "Data nie powinna przypadać przed datą minimalną",
+    "ok": "OK",
+    "today": "Dziś"
+  },
+  "Merchant": "Handlowiec",
+  "Month": "Miesiąc",
+  "No data": "Brak danych",
+  "No data for previous period.": "Brak danych dla poprzedniego okresu.",
+  "No results found": "Brak wyników",
+  "Operator": "Operator",
+  "Please choose one": "Wybierz jeden element",
+  "Please contact your account manager in order to have a demo and to be configured on the new version.": "Skontaktuj się z opiekunem klienta, aby poprosić o demonstrację i konfigurację nowej wersji.",
+  "Previous month": "Poprzedni miesiąc",
+  "Previous period": "Poprzedni okres",
+  "Previous quarter": "Poprzedni kwartał",
+  "Previous year": "Poprzedni rok",
+  "Save": "Zapisz",
+  "SAVE": "ZAPISZ",
+  "This feature is still in progress. It is not yet ready to be used.": "Ta funkcja jest nadal w toku przygotowania. Nie jest jeszcze gotowa do użycia.",
+  "This month": "Ten miesiąc",
+  "This semester": "Ten semestr",
+  "This week": "Ten tydzień",
+  "This year": "Ten rok",
+  "Threshold": "Próg",
+  "to": "do",
+  "To": "Do",
+  "Today": "Dziś",
+  "validator": {
+    "required": "To pole jest wymagane"
+  },
+  "Value": "Wartość",
+  "Week": "Tydzień",
+  "Year": "Rok",
+  "{{fileSize}} B": "{{fileSize}} B",
+  "{{fileSize}} KB": "{{fileSize}} KB",
+  "{{fileSize}} MB": "{{fileSize}} MB"
+}

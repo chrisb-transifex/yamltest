@@ -1,0 +1,141 @@
+{
+  "Address": "Adres",
+  "City": "Stad",
+  "Country": "Land",
+  "Description": "Beschrijving",
+  "Duration": "Duur",
+  "Ends on": "Eindigt op",
+  "First name": "Voornaam",
+  "Homemade on demand": "Huisgemaakt op bestelling",
+  "In stock": "In voorraad",
+  "Last month": "Vorige maand",
+  "Last name": "Achternaam",
+  "merchant": {
+    "offer_type": {
+      "hybrid": "hybride",
+      "product": "product",
+      "service": "dienst"
+    }
+  },
+  "Name": "Naam",
+  "Out of stock": "Niet op voorraad",
+  "Phone": "Telefoon",
+  "Restocking": "Opnieuw bevoorraden",
+  "second": "tweede",
+  "seconds": "seconden",
+  "SIREN number": "SIREN-nummer",
+  "SIRET number": "SIRET-nummer",
+  "Soon out of stock": "Binnenkort niet meer in voorraad",
+  "Start time": "Begintijd",
+  "Starts on": "Begint op",
+  "status": {
+    "merchant": {
+      "active": "Actief",
+      "deleted": "Verwijderd",
+      "inactive": "Inactief",
+      "paused": "Gepauzeerd",
+      "pending": "Aangevraagd",
+      "stopped": "Gestopt"
+    },
+    "merchant_order": {
+      "authorization": {
+        "cancelled": "geannuleerd"
+      },
+      "cancelled": "Geannuleerd",
+      "confirmed": "Bevestigd",
+      "deleted": "verwijderd",
+      "expired": "Verlopen",
+      "finalized": "Afgerond",
+      "incident_status": {
+        "closed": "Gesloten",
+        "no_incident": "Geen incident",
+        "pending_customer": "Aangevraagde klant",
+        "pending_merchant": "Aangevraagde webwinkelier",
+        "processing": "Verwerking"
+      },
+      "initial": "Oorspronkelijk",
+      "payment": {
+        "authorized": "Betaling goedgekeurd",
+        "failure": "Betaling mislukt",
+        "partial": {
+          "failure": "Betaling gedeeltelijk mislukt",
+          "success": "Gedeeltelijk betaald"
+        },
+        "success": "Betaald",
+        "waiting": "Aangevraagde betaling"
+      },
+      "processed": "Verwerkt",
+      "received": "Ontvangen",
+      "refund": {
+        "partial": "Gedeeltelijk terugbetaald"
+      },
+      "return": {
+        "pending": "Bezig met retourneren",
+        "success": "Geretourneerd"
+      },
+      "sent": "Verzonden"
+    },
+    "product_offer": {
+      "active": "Actief",
+      "banned": "Verboden",
+      "deleted": "Verwijderd",
+      "draft": "Ontwerp",
+      "inactive": "Inactief",
+      "pending": "Aangevraagd",
+      "trashed": "Opgeruimd"
+    },
+    "quote": {
+      "accepted": "Geaccepteerd",
+      "canceled": "Geannuleerd",
+      "deleted": "Verwijderd",
+      "done": "Uitgevoerd",
+      "draft": "Ontwerp",
+      "emitted": "Uitgezonden",
+      "modified": "Gewijzigd",
+      "refused": "Geweigerd",
+      "suspended": "Opgeschort"
+    },
+    "return": {
+      "accepted": "Geaccepteerd",
+      "cancelled": "Geannuleerd",
+      "closed_by_buyer": "Gesloten door koper",
+      "closed_by_seller": "Gesloten door verkoper",
+      "denied": "Geweigerd",
+      "open": "Open",
+      "package_received": "Pakket ontvangen"
+    }
+  },
+  "Subslot duration": "Duur subslot",
+  "Subslot offset": "Subslot offset",
+  "This month": "Deze maand",
+  "To be released": "Wordt vrijgegeven",
+  "Today": "Vandaag",
+  "transition": {
+    "quote": {
+      "accept": "Accepteren",
+      "cancel": "Annuleren",
+      "done": "Uitgevoerd",
+      "emit": "Uitzenden",
+      "refuse": "Weigeren"
+    }
+  },
+  "Unknown error. Please contact the marketplace": "Onbekende fout. Neem contact op met de marketplace",
+  "Yesterday": "Gisteren",
+  "Zipcode": "Postcode",
+  "{0} is invalid": "{0} is ongeldig",
+  "{0} is required": "{0} is vereist",
+  "{0} must be a non-negative number": "{0} moet een niet-negatief getal zijn",
+  "{0} must be a number": "{0} moet een getal zijn",
+  "{0} must be a valid email": "{0} moet een geldig emailadres zijn",
+  "{0} must be a valid url": "{0} moet een geldige URL zijn",
+  "{0} must be at least {1} characters": "{0} moet ten minste {1} tekens zijn",
+  "{0} must be at most {1} characters": "{0} moet maximaal {1} tekens zijn",
+  "{0} must be between {1} and {2}": "{0} moet tussen {1} en {2} liggen",
+  "{0} must be between {1} and {2} characters": "{0} moet tussen {1} en {2} tekens liggen",
+  "{0} must be greater than or equal to {1}": "{0} moet groter zijn dan of gelijk aan {1}",
+  "{0} must be less than or equal to {1}": "{0} moet kleiner zijn dan of gelijk aan {1}",
+  "{0} must be one of: {1}": "{0} moet een van: {1} zijn",
+  "{0} must be the same as {1}": "{0} moet hetzelfde zijn als {1}",
+  "{0} must be {1} characters": "{0} moet {1} tekens zijn",
+  "{0} must only contain digits": "{0} mag alleen cijfers bevatten"
+}

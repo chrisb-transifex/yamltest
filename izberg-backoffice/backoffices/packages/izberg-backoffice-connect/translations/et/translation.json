@@ -1,0 +1,141 @@
+{
+  "Address": "Aadress",
+  "City": "Linn",
+  "Country": "Riik",
+  "Description": "Kirjeldus",
+  "Duration": "Kestus",
+  "Ends on": "Lõpeb",
+  "First name": "Eesnimi",
+  "Homemade on demand": "Nõudmisel kodus valmistatud",
+  "In stock": "Laos",
+  "Last month": "Eelmine kuu",
+  "Last name": "Perekonnanimi",
+  "merchant": {
+    "offer_type": {
+      "hybrid": "hübriid",
+      "product": "toode",
+      "service": "Teenus"
+    }
+  },
+  "Name": "Nimi",
+  "Out of stock": "Otsas",
+  "Phone": "Telefon",
+  "Restocking": "Varude täiendamine",
+  "second": "sekund",
+  "seconds": "sekundit",
+  "SIREN number": "SIREN-number",
+  "SIRET number": "SIRET-number",
+  "Soon out of stock": "Peagi otsas",
+  "Start time": "Algusaeg",
+  "Starts on": "Algab",
+  "status": {
+    "merchant": {
+      "active": "Aktiivne",
+      "deleted": "Kustutatud",
+      "inactive": "Mitteaktiivne",
+      "paused": "Peatatud",
+      "pending": "Ootel",
+      "stopped": "Peatatud"
+    },
+    "merchant_order": {
+      "authorization": {
+        "cancelled": "Tühistatud"
+      },
+      "cancelled": "Tühistatud",
+      "confirmed": "Kinnitatud",
+      "deleted": "kustutatud",
+      "expired": "Aegunud",
+      "finalized": "Lõpetatud",
+      "incident_status": {
+        "closed": "Suletud",
+        "no_incident": "Juhtumeid pole",
+        "pending_customer": "Ootel klient",
+        "pending_merchant": "Ootel müüja",
+        "processing": "Töötlemine"
+      },
+      "initial": "Algne",
+      "payment": {
+        "authorized": "Makse on lubatud",
+        "failure": "Makse ebaõnnestus",
+        "partial": {
+          "failure": "Makse ebaõnnestus osaliselt",
+          "success": "Osaliselt tasutud"
+        },
+        "success": "Tasutud",
+        "waiting": "Ootel makse"
+      },
+      "processed": "Töödeldud",
+      "received": "Kätte saadud",
+      "refund": {
+        "partial": "Osaliselt tagasi makstud"
+      },
+      "return": {
+        "pending": "Tagastamine on pooleli",
+        "success": "Tagastatud"
+      },
+      "sent": "Saadetud"
+    },
+    "product_offer": {
+      "active": "Aktiivne",
+      "banned": "Keelatud",
+      "deleted": "Deleted",
+      "draft": "Mustand",
+      "inactive": "Mitteaktiivne",
+      "pending": "Ootel",
+      "trashed": "Prügikastis"
+    },
+    "quote": {
+      "accepted": "Vastu võetud",
+      "canceled": "Tühistatud",
+      "deleted": "Kustutatud",
+      "done": "Valmis",
+      "draft": "Mustand",
+      "emitted": "Väljastatud",
+      "modified": "Muudetud",
+      "refused": "Keeldutud",
+      "suspended": "Peatatud"
+    },
+    "return": {
+      "accepted": "Vastu võetud",
+      "cancelled": "Tühistatud",
+      "closed_by_buyer": "Ostja poolt suletud",
+      "closed_by_seller": "Müüja poolt suletud",
+      "denied": "Keeldutud",
+      "open": "Ava",
+      "package_received": "Pakk kätte saadud"
+    }
+  },
+  "Subslot duration": "Alamsloti kestus",
+  "Subslot offset": "Alamsloti nihe",
+  "This month": "See kuu",
+  "To be released": "Vabastada",
+  "Today": "Täna",
+  "transition": {
+    "quote": {
+      "accept": "Nõustu",
+      "cancel": "Tühista",
+      "done": "Valmis",
+      "emit": "Väljasta",
+      "refuse": "Keeldu"
+    }
+  },
+  "Unknown error. Please contact the marketplace": "Tundmatu viga. Võtke ühendust müügikohaga",
+  "Yesterday": "Eile",
+  "Zipcode": "Postiindeks",
+  "{0} is invalid": "{0} on kehtetu",
+  "{0} is required": "{0} on vajalik",
+  "{0} must be a non-negative number": "{0} peab olema number, mis ei ole negatiivne",
+  "{0} must be a number": "{0} peab olema number",
+  "{0} must be a valid email": "{0} peab olema kehtiv e-posti aadress",
+  "{0} must be a valid url": "{0} peab olema kehtiv URL",
+  "{0} must be at least {1} characters": "{0} peab olema vähemalt {1} tähemärki pikk",
+  "{0} must be at most {1} characters": "{0} võib olla kuni {1} tähemärki pikk",
+  "{0} must be between {1} and {2}": "{0} peab olema vahemikus {1} kuni {2}",
+  "{0} must be between {1} and {2} characters": "{0} peab olema vahemikus {1} kuni {2} tähemärki",
+  "{0} must be greater than or equal to {1}": "{0} peab olema suurem kui {1} või sellega võrdne",
+  "{0} must be less than or equal to {1}": "{0} peab olema väiksem kui {1} või sellega võrdne",
+  "{0} must be one of: {1}": "{0} peab olema üks järgmistest: {1}",
+  "{0} must be the same as {1}": "{0} peab olema võrdne {1}-ga",
+  "{0} must be {1} characters": "{0} peab olema {1} tähemärki pikk",
+  "{0} must only contain digits": "{0} peab sisaldama ainult numbreid"
+}

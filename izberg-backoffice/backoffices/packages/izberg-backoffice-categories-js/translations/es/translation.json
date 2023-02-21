@@ -1,0 +1,21 @@
+{
+  "Add": "Añadir",
+  "Add a new lang": "Añadir un nuevo idioma",
+  "Application Tree Categories": "Árbol de categorías de aplicaciones",
+  "Are you sure you want to delete the categories belonging to this language ?": "¿Seguro que quiere eliminar las categorías que pertenecen a este idioma?",
+  "Categories deletion": "Eliminar categorías",
+  "Confirm": "Confirmar",
+  "Confirm deletion": "Confirmar la eliminación",
+  "confirm deletion body": "Este idioma será eliminado. Por favor, confirme esta acción",
+  "Confirm deletion category body": "¿Seguro de que quiere eliminar definitivamente esta categoría? Se eliminará por completo y no aparecerá más en esta lista.",
+  "Confirm selected categories deletion body": "¿Seguro de que quiere eliminar las categorías seleccionadas? Se eliminarán por completo y no aparecerán más en esta lista.",
+  "Delete": "Borrar",
+  "Delete this language": "Borrar este idioma",
+  "Download": "Descargar",
+  "Loading": "Cargando",
+  "Locales :": "Idiomas:",
+  "No options": "Sin opciones",
+  "Time has expired, please refresh the page.": "El tiempo ha expirado. Por favor, actualice la página.",
+  "Waiting changes saved message": "Sus cambios se están guardando... Por favor, espere un momento antes de hacer más cambios.",
+  "Your changes have been saved successfully !": "¡Sus cambios han sido guardados con éxito!"
+}

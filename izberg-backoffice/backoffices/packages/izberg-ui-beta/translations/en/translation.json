@@ -1,0 +1,142 @@
+{
+  "({{number}} elements)": "({{number}} elements)",
+  "A new version of {{featureName}} has been developed for you to have a better user experience.": "A new version of {{featureName}} has been developed for you to have a better user experience.",
+  "Are you sure?": "Are you sure?",
+  "Cancel": "Cancel",
+  "Category": "Category",
+  "Choose": "Choose",
+  "Confirm": "Confirm",
+  "Country": "Country",
+  "Currency": "Currency",
+  "Current year": "Current year",
+  "Custom": "Custom",
+  "Customer": "Customer",
+  "datagrid": {
+    "column_manager": {
+      "reset": "Reset default values",
+      "subtitle": "Select the columns to display",
+      "title": "Configure the table"
+    },
+    "export": {
+      "error": "An error occurred. The list has not been sent.",
+      "export": "Export",
+      "success": "Current list has been sent by email.",
+      "text": "You are about to export the current list. The exported list will correspond to the current filters you have applied."
+    },
+    "filter_modal": {
+      "apply": "Apply",
+      "cancel": "Cancel",
+      "choose_a_date": "Choose a date",
+      "title": "Filters"
+    },
+    "filters": {
+      "between": "Between",
+      "exact": "Exact",
+      "greater_than": "Greater than",
+      "greater_than_equal": "Greater than or equal to",
+      "icontains": "Contains",
+      "iendswith": "Ends with",
+      "istartswith": "Starts with",
+      "lower_than": "Lower than",
+      "lower_than_equal": "Lower than or equal to"
+    },
+    "footer": {
+      "display_per_page": "Display per page:",
+      "items": "items",
+      "items_out_of": "items out of",
+      "of_{{numberOfPages}}": "of {{numberOfPages}}",
+      "row_displayed": "of",
+      "rows_per_page": "Results per page:"
+    },
+    "no_data": "No data",
+    "toolbar": {
+      "add_new": "Add new",
+      "delete": "Delete",
+      "filter_tooltip": "Filter list",
+      "items_selected": "items selected",
+      "manage_columns": "Manage columns",
+      "refresh": "Refresh",
+      "search_helptext": "Search by {{name}}"
+    }
+  },
+  "date": {
+    "from": "from",
+    "to": "to"
+  },
+  "Day": "Day",
+  "Dismiss": "Dismiss",
+  "Don't ask me again": "Don't ask me again",
+  "editor": {
+    "buttons": {
+      "download_content": "Download content",
+      "edit_content": "Edit content",
+      "upload_content": "Upload content"
+    }
+  },
+  "email": "email",
+  "Export": "Export",
+  "Export file will be sent to": "Export file will be sent to",
+  "form_generator": {
+    "categories": {
+      "cross_attributes": "Cross Categories Attributes",
+      "help_text": "Allows to get the attributes available on any category",
+      "label": "Categories"
+    },
+    "merchant": {
+      "label": "Search merchant by name"
+    }
+  },
+  "from": "from",
+  "From": "From",
+  "Hour": "Hour",
+  "However you are not yet configured on the new version of the module. Please note that the current version will be deprecated on {{date}}.": "However you are not yet configured on the new version of the module. Please note that the current version will be deprecated on {{date}}.",
+  "Language": "Language",
+  "Last 12 months": "Last 12 months",
+  "Last 24 hours": "Last 24 hours",
+  "Last 30 days": "Last 30 days",
+  "Last 6 months": "Last 6 months",
+  "Last 7 days": "Last 7 days",
+  "Loading...": "Loading...",
+  "material_pickers": {
+    "cancel": "Cancel",
+    "clear": "Clear",
+    "invalid": "Unknown",
+    "invalid_date": "Invalid Date Format",
+    "max_date": "Date should not be after maximal date",
+    "min_date": "Date should not be before minimal date",
+    "ok": "OK",
+    "today": "Today"
+  },
+  "Merchant": "Merchant",
+  "Month": "Month",
+  "No data": "No data",
+  "No data for previous period.": "No data for previous period.",
+  "No results found": "No results found",
+  "Operator": "Operator",
+  "Please choose one": "Please choose one",
+  "Please contact your account manager in order to have a demo and to be configured on the new version.": "Please contact your account manager in order to have a demo and to be configured on the new version.",
+  "Previous month": "Previous month",
+  "Previous period": "Previous period",
+  "Previous quarter": "Previous quarter",
+  "Previous year": "Previous year",
+  "Save": "Save",
+  "SAVE": "SAVE",
+  "This feature is still in progress. It is not yet ready to be used.": "This feature is still in progress. It is not yet ready to be used.",
+  "This month": "This month",
+  "This semester": "This semester",
+  "This week": "This week",
+  "This year": "This year",
+  "Threshold": "Threshold",
+  "to": "to",
+  "To": "To",
+  "Today": "Today",
+  "validator": {
+    "required": "This field is required"
+  },
+  "Value": "Value",
+  "Week": "Week",
+  "Year": "Year",
+  "{{fileSize}} B": "{{fileSize}} B",
+  "{{fileSize}} KB": "{{fileSize}} KB",
+  "{{fileSize}} MB": "{{fileSize}} MB"
+}

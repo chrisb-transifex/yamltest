@@ -1,0 +1,142 @@
+{
+  "({{number}} elements)": "({{number}} elementen)",
+  "A new version of {{featureName}} has been developed for you to have a better user experience.": "Een nieuwe versie van {{featureName}} is ontwikkeld voor een betere gebruikerservaring.",
+  "Are you sure?": "Weet u het zeker?",
+  "Cancel": "Annuleren",
+  "Category": "Categorie",
+  "Choose": "Kies",
+  "Confirm": "Bevestigen",
+  "Country": "Land",
+  "Currency": "Valuta",
+  "Current year": "Lopend jaar",
+  "Custom": "Aangepast",
+  "Customer": "Klant",
+  "datagrid": {
+    "column_manager": {
+      "reset": "Standaard waarden resetten",
+      "subtitle": "Weer te geven kolommen selecteren",
+      "title": "Tabel configureren"
+    },
+    "export": {
+      "error": "Er is een fout opgetreden. De lijst is niet verzonden.",
+      "export": "Exporteren",
+      "success": "De huidige lijst is per e-mail verstuurd.",
+      "text": "U staat op het punt de huidige lijst te exporteren. De geëxporteerde lijst zal overeenkomen met de huidige filters die u hebt toegepast. Het exportbestand zal worden verzonden naar {{email}}"
+    },
+    "filter_modal": {
+      "apply": "Toepassen",
+      "cancel": "Annuleren",
+      "choose_a_date": "Kies een datum",
+      "title": "Filters"
+    },
+    "filters": {
+      "between": "Tussen",
+      "exact": "Exact",
+      "greater_than": "Groter dan",
+      "greater_than_equal": "Groter dan of gelijk aan",
+      "icontains": "Bevat",
+      "iendswith": "Eindigt met",
+      "istartswith": "Begint met",
+      "lower_than": "Lager dan",
+      "lower_than_equal": "Lager dan of gelijk aan"
+    },
+    "footer": {
+      "display_per_page": "Weergave per pagina:",
+      "items": "artikelen",
+      "items_out_of": "artikelen uit",
+      "of_{{numberOfPages}}": "van {{aantal pagina's}}",
+      "row_displayed": "van",
+      "rows_per_page": "Resultaten per pagina:"
+    },
+    "no_data": "Geen gegevens",
+    "toolbar": {
+      "add_new": "Nieuwe toevoegen",
+      "delete": "Verwijderen",
+      "filter_tooltip": "Filter lijst",
+      "items_selected": "geselecteerde artikelen",
+      "manage_columns": "Kolommen beheren",
+      "refresh": "Vernieuwen",
+      "search_helptext": "Zoeken op {{name}}"
+    }
+  },
+  "date": {
+    "from": "van",
+    "to": "naar"
+  },
+  "Day": "Dag",
+  "Dismiss": "Verwerpen",
+  "Don't ask me again": "Vraag het me niet nog eens",
+  "editor": {
+    "buttons": {
+      "download_content": "Inhoud downloaden",
+      "edit_content": "Inhoud bewerken",
+      "upload_content": "Inhoud uploaden"
+    }
+  },
+  "email": "e-mail",
+  "Export": "Exporteren",
+  "Export file will be sent to": "Het exportbestand wordt verstuurd naar",
+  "form_generator": {
+    "categories": {
+      "cross_attributes": "Attributen kruiscategorieën",
+      "help_text": "Hiermee kunt u de beschikbare attributen van een categorie opvragen",
+      "label": "Categorieën"
+    },
+    "merchant": {
+      "label": "Webwinkelier op naam zoeken"
+    }
+  },
+  "from": "van",
+  "From": "Van",
+  "Hour": "Uur",
+  "However you are not yet configured on the new version of the module. Please note that the current version will be deprecated on {{date}}.": "U bent echter nog niet geconfigureerd op de nieuwe versie van de module. Houd er rekening mee dat de huidige versie op {{datum}} zal worden afgeschreven.",
+  "Language": "Taal",
+  "Last 12 months": "Afgelopen 12 maanden",
+  "Last 24 hours": "Afgelopen 24 uur",
+  "Last 30 days": "Afgelopen 30 dagen",
+  "Last 6 months": "Afgelopen 6 maanden",
+  "Last 7 days": "Afgelopen 7 dagen",
+  "Loading...": "Bezig met laden...",
+  "material_pickers": {
+    "cancel": "Annuleren",
+    "clear": "Duidelijk",
+    "invalid": "Onbekend",
+    "invalid_date": "Ongeldig datumformaat",
+    "max_date": "De datum mag niet na de maximum datum liggen",
+    "min_date": "De datum mag niet vóór de minimum datum liggen",
+    "ok": "OK",
+    "today": "Vandaag"
+  },
+  "Merchant": "Webwinkelier",
+  "Month": "Maand",
+  "No data": "Geen gegevens",
+  "No data for previous period.": "Geen gegevens over de vorige periode.",
+  "No results found": "Geen resultaten gevonden",
+  "Operator": "Operator",
+  "Please choose one": "Kies er een",
+  "Please contact your account manager in order to have a demo and to be configured on the new version.": "Neem contact op met uw accountmanager om een demo te krijgen en om geconfigureerd te worden op de nieuwe versie.",
+  "Previous month": "Vorige maand",
+  "Previous period": "Vorige periode",
+  "Previous quarter": "Vorig kwartaal",
+  "Previous year": "Vorig jaar",
+  "Save": "Opslaan",
+  "SAVE": "OPSLAAN",
+  "This feature is still in progress. It is not yet ready to be used.": "Aan deze functie wordt nog gewerkt. Ze is nog niet klaar voor gebruik.",
+  "This month": "Deze maand",
+  "This semester": "Dit semester",
+  "This week": "Deze week",
+  "This year": "Dit jaar",
+  "Threshold": "Drempel",
+  "to": "naar",
+  "To": "Naar",
+  "Today": "Vandaag",
+  "validator": {
+    "required": "Dit veld is verplicht"
+  },
+  "Value": "Waarde",
+  "Week": "Week",
+  "Year": "Jaar",
+  "{{fileSize}} B": "{{fileSize}} B",
+  "{{fileSize}} KB": "{{fileSize}} KB",
+  "{{fileSize}} MB": "{{fileSize}} MB"
+}

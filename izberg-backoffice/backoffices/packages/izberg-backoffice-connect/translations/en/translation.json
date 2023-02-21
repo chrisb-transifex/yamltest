@@ -1,0 +1,141 @@
+{
+  "Address": "Address",
+  "City": "City",
+  "Country": "Country",
+  "Description": "Description",
+  "Duration": "Duration",
+  "Ends on": "Ends on",
+  "First name": "First name",
+  "Homemade on demand": "Homemade on demand",
+  "In stock": "In stock",
+  "Last month": "Last month",
+  "Last name": "Last name",
+  "merchant": {
+    "offer_type": {
+      "hybrid": "hybrid",
+      "product": "product",
+      "service": "service"
+    }
+  },
+  "Name": "Name",
+  "Out of stock": "Out of stock",
+  "Phone": "Phone",
+  "Restocking": "Restocking",
+  "second": "second",
+  "seconds": "seconds",
+  "SIREN number": "SIREN number",
+  "SIRET number": "SIRET number",
+  "Soon out of stock": "Soon out of stock",
+  "Start time": "Start time",
+  "Starts on": "Starts on",
+  "status": {
+    "merchant": {
+      "active": "Active",
+      "deleted": "Deleted",
+      "inactive": "Inactive",
+      "paused": "Paused",
+      "pending": "Pending",
+      "stopped": "Stopped"
+    },
+    "merchant_order": {
+      "authorization": {
+        "cancelled": "cancelled"
+      },
+      "cancelled": "Cancelled",
+      "confirmed": "Confirmed",
+      "deleted": "deleted",
+      "expired": "Expired",
+      "finalized": "Finalized",
+      "incident_status": {
+        "closed": "Closed",
+        "no_incident": "No incident",
+        "pending_customer": "Pending customer",
+        "pending_merchant": "Pending merchant",
+        "processing": "Processing"
+      },
+      "initial": "Initial",
+      "payment": {
+        "authorized": "Payment authorized",
+        "failure": "Payment failed",
+        "partial": {
+          "failure": "Payment partially failed",
+          "success": "Partially paid"
+        },
+        "success": "Paid",
+        "waiting": "Pending payment"
+      },
+      "processed": "Processed",
+      "received": "Received",
+      "refund": {
+        "partial": "Partially refunded"
+      },
+      "return": {
+        "pending": "Return in progress",
+        "success": "Returned"
+      },
+      "sent": "Sent"
+    },
+    "product_offer": {
+      "active": "Active",
+      "banned": "Banned",
+      "deleted": "Deleted",
+      "draft": "Draft",
+      "inactive": "Inactive",
+      "pending": "Pending",
+      "trashed": "Trashed"
+    },
+    "quote": {
+      "accepted": "Accepted",
+      "canceled": "Canceled",
+      "deleted": "Deleted",
+      "done": "Done",
+      "draft": "Draft",
+      "emitted": "Emitted",
+      "modified": "Modified",
+      "refused": "Refused",
+      "suspended": "Suspended"
+    },
+    "return": {
+      "accepted": "Accepted",
+      "cancelled": "Cancelled",
+      "closed_by_buyer": "Closed by buyer",
+      "closed_by_seller": "Closed by seller",
+      "denied": "Denied",
+      "open": "Open",
+      "package_received": "Package received"
+    }
+  },
+  "Subslot duration": "Subslot duration",
+  "Subslot offset": "Subslot offset",
+  "This month": "This month",
+  "To be released": "To be released",
+  "Today": "Today",
+  "transition": {
+    "quote": {
+      "accept": "Accept",
+      "cancel": "Cancel",
+      "done": "Done",
+      "emit": "Emit",
+      "refuse": "Refuse"
+    }
+  },
+  "Unknown error. Please contact the marketplace": "Unknown error. Please contact the marketplace",
+  "Yesterday": "Yesterday",
+  "Zipcode": "Zipcode",
+  "{0} is invalid": "{0} is invalid",
+  "{0} is required": "{0} is required",
+  "{0} must be a non-negative number": "{0} must be a non-negative number",
+  "{0} must be a number": "{0} must be a number",
+  "{0} must be a valid email": "{0} must be a valid email",
+  "{0} must be a valid url": "{0} must be a valid url",
+  "{0} must be at least {1} characters": "{0} must be at least {1} characters",
+  "{0} must be at most {1} characters": "{0} must be at most {1} characters",
+  "{0} must be between {1} and {2}": "{0} must be between {1} and {2}",
+  "{0} must be between {1} and {2} characters": "{0} must be between {1} and {2} characters",
+  "{0} must be greater than or equal to {1}": "{0} must be greater than or equal to {1}",
+  "{0} must be less than or equal to {1}": "{0} must be less than or equal to {1}",
+  "{0} must be one of: {1}": "{0} must be one of: {1}",
+  "{0} must be the same as {1}": "{0} must be the same as {1}",
+  "{0} must be {1} characters": "{0} must be {1} characters",
+  "{0} must only contain digits": "{0} must only contain digits"
+}

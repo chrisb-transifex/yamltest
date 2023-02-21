@@ -1,0 +1,21 @@
+{
+  "Add": "Ajouter",
+  "Add a new lang": "Ajouter une nouvelle langue",
+  "Application Tree Categories": "Arbre des catégories d’application",
+  "Are you sure you want to delete the categories belonging to this language ?": "Êtes-vous sûr de vouloir supprimer les catégories appartenant à cette langue ?",
+  "Categories deletion": "Suppression de catégories",
+  "Confirm": "Confirmer",
+  "Confirm deletion": "Confirmer la suppression",
+  "confirm deletion body": "Cette langue sera supprimée. Veuillez confirmer cette action pour l'accomplir.",
+  "Confirm deletion category body": "Êtes-vous sûr de vouloir supprimer complètement cette catégorie ? Elle sera retirée de toutes les langues et n’apparaîtra plus dans cette liste.",
+  "Confirm selected categories deletion body": "Êtes-vous sûr de vouloir supprimer complètement les catégories sélectionnées ? Elles seront retirées de toutes les langues et n’apparaîtront plus dans cette liste.",
+  "Delete": "Supprimer",
+  "Delete this language": "Supprimer cette langue",
+  "Download": "Télécharger",
+  "Loading": "Chargement",
+  "Locales :": "Langues :",
+  "No options": "Aucune option",
+  "Time has expired, please refresh the page.": "Délai expiré, veuillez rafraîchir la page",
+  "Waiting changes saved message": "Vos modifications sont en train d'être enregistrées... Merci de patienter.",
+  "Your changes have been saved successfully !": "Vos modifications ont bien été enregistrées !"
+}

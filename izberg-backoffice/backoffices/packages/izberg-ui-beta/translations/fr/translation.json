@@ -1,0 +1,142 @@
+{
+  "({{number}} elements)": "({{number}} éléments)",
+  "A new version of {{featureName}} has been developed for you to have a better user experience.": "Une nouvelle version du module {{featureName}} a été développée afin de vous offrir une meilleure expérience utilisateur",
+  "Are you sure?": "Êtes-vous sûr.e ?",
+  "Cancel": "Annuler",
+  "Category": "Catégorie",
+  "Choose": "Choisir",
+  "Confirm": "Confirmer",
+  "Country": "Pays",
+  "Currency": "Devise",
+  "Current year": "Année actuelle",
+  "Custom": "Personnalisé",
+  "Customer": "Client",
+  "datagrid": {
+    "column_manager": {
+      "reset": "Réinitialiser les valeurs par défaut",
+      "subtitle": "Sélectionnez les colonnes à afficher",
+      "title": "Configurer le tableau"
+    },
+    "export": {
+      "error": "Une erreur est survenue. La liste n'a pas été envoyée",
+      "export": "Exporter",
+      "success": "La liste a été envoyée par email",
+      "text": "Vous êtes sur le point d'exporter la liste actuelle. L'export correspondra aux filtres que vous avez appliqués sur la page."
+    },
+    "filter_modal": {
+      "apply": "Appliquer",
+      "cancel": "Annuler",
+      "choose_a_date": "Choisir une date",
+      "title": "Filtres"
+    },
+    "filters": {
+      "between": "Entre",
+      "exact": "Égal",
+      "greater_than": "Plus grand que",
+      "greater_than_equal": "Supérieur ou égal à",
+      "icontains": "Contient",
+      "iendswith": "Fini par",
+      "istartswith": "Commence par",
+      "lower_than": "Plus petit que",
+      "lower_than_equal": "Inférieur ou égal à"
+    },
+    "footer": {
+      "display_per_page": "Affichage par page :",
+      "items": "éléments",
+      "items_out_of": "éléments sur",
+      "of_{{numberOfPages}}": "sur {{numberOfPages}}",
+      "row_displayed": "sur",
+      "rows_per_page": "Résultats par page :"
+    },
+    "no_data": "Aucune donnée",
+    "toolbar": {
+      "add_new": "Créer",
+      "delete": "Supprimer",
+      "filter_tooltip": "Liste de filtres",
+      "items_selected": "élément(s) sélectionné(s)",
+      "manage_columns": "Gérer les colonnes",
+      "refresh": "Rafraîchir",
+      "search_helptext": "Recherche par {{name}}"
+    }
+  },
+  "date": {
+    "from": "du",
+    "to": "au"
+  },
+  "Day": "Jour",
+  "Dismiss": "Fermer",
+  "Don't ask me again": "Ne plus me demander",
+  "editor": {
+    "buttons": {
+      "download_content": "Télécharger le contenu",
+      "edit_content": "Modifier le contenu",
+      "upload_content": "Importer du contenu"
+    }
+  },
+  "email": "email",
+  "Export": "Exporter",
+  "Export file will be sent to": "Le fichier d'export sera envoyé à",
+  "form_generator": {
+    "categories": {
+      "cross_attributes": "Attributs transverses",
+      "help_text": "Permet de récupérer les attributs disponibles sur toutes les catégories",
+      "label": "Catégories"
+    },
+    "merchant": {
+      "label": "Rechercher un marchand par nom"
+    }
+  },
+  "from": "du",
+  "From": "De",
+  "Hour": "Heure",
+  "However you are not yet configured on the new version of the module. Please note that the current version will be deprecated on {{date}}.": "Cependant, votre application n'est pas encore configurée sur la dernière version du module. Merci de noter que la version actuelle sera dépréciée le {{date}}.",
+  "Language": "Langue",
+  "Last 12 months": "12 derniers mois",
+  "Last 24 hours": "24 dernières heures",
+  "Last 30 days": "30 derniers jours",
+  "Last 6 months": "6 derniers mois",
+  "Last 7 days": "7 derniers jours",
+  "Loading...": "Chargement...",
+  "material_pickers": {
+    "cancel": "Annuler",
+    "clear": "Effacer",
+    "invalid": "Inconnu",
+    "invalid_date": "Format de date invalide",
+    "max_date": "La date ne doit pas être supérieure la date maximale",
+    "min_date": "La date ne doit pas être inférieure la date minimale",
+    "ok": "OK",
+    "today": "Aujourd'hui"
+  },
+  "Merchant": "Marchand",
+  "Month": "Mois",
+  "No data": "Aucune donnée",
+  "No data for previous period.": "Pas de donnée pour la période précédente.",
+  "No results found": "Pas de résultats",
+  "Operator": "Opérateur",
+  "Please choose one": "Merci de sélectionner un item",
+  "Please contact your account manager in order to have a demo and to be configured on the new version.": "Merci de contacter votre Account Manager afin d'avoir une démonstration du module et pour être configuré sur la dernière version.",
+  "Previous month": "Mois précédent",
+  "Previous period": "Période précédente",
+  "Previous quarter": "Trimestre précédent",
+  "Previous year": "Année précédente",
+  "Save": "Enregistrer",
+  "SAVE": "ENREGISTRER",
+  "This feature is still in progress. It is not yet ready to be used.": "Cette fonctionnalité est en cours de développement. Elle n’est pas encore prête à être utilisée.",
+  "This month": "Ce mois",
+  "This semester": "Ce semestre",
+  "This week": "Cette semaine",
+  "This year": "Cette année",
+  "Threshold": "Seuil",
+  "to": "au",
+  "To": "À",
+  "Today": "Aujourd'hui",
+  "validator": {
+    "required": "Ce champ est obligatoire"
+  },
+  "Value": "Valeur",
+  "Week": "Semaine",
+  "Year": "Année",
+  "{{fileSize}} B": "{{fileSize}} o",
+  "{{fileSize}} KB": "{{fileSize}} Ko",
+  "{{fileSize}} MB": "{{fileSize}} Mo"
+}

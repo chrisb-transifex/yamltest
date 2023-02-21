@@ -1,0 +1,21 @@
+{
+  "Add": "Toevoegen",
+  "Add a new lang": "Een nieuwe taal toevoegen",
+  "Application Tree Categories": "Applicatie boomcategorieën",
+  "Are you sure you want to delete the categories belonging to this language ?": "Weet u zeker dat u de categorieën wilt verwijderen die bij deze taal horen ?",
+  "Categories deletion": "Verwijdering van categorieën",
+  "Confirm": "Bevestigen",
+  "Confirm deletion": "Bevestig de verwijdering",
+  "confirm deletion body": "Deze taal zal worden verwijderd. Bevestig deze actie om het te bereiken.",
+  "Confirm deletion category body": "Weet u zeker dat u deze categorie volledig wilt verwijderen? De categorie wordt uit alle locaties verwijderd en verschijnt niet meer in deze lijst.",
+  "Confirm selected categories deletion body": "Weet u zeker dat u de geselecteerde categorieën volledig wilt verwijderen? Ze worden verwijderd uit alle locaties en verschijnen niet meer in deze lijst.",
+  "Delete": "Verwijderen",
+  "Delete this language": "Verwijder deze taal",
+  "Download": "Download",
+  "Loading": "Bezig met laden",
+  "Locales :": "Vertalingen :",
+  "No options": "Geen opties",
+  "Time has expired, please refresh the page.": "De tijd is verstreken, vernieuw de pagina.",
+  "Waiting changes saved message": "Uw wijzigingen worden opgeslagen... Wacht met het aanbrengen van verdere wijzigingen.",
+  "Your changes have been saved successfully !": "Uw wijzigingen zijn opgeslagen !"
+}

@@ -1,0 +1,141 @@
+{
+  "Address": "Adres",
+  "City": "Miejscowość",
+  "Country": "Kraj",
+  "Description": "Opis",
+  "Duration": "Czas trwania",
+  "Ends on": "Kończy się",
+  "First name": "Imię",
+  "Homemade on demand": "Wyrób domowy na żądanie",
+  "In stock": "W zapasach",
+  "Last month": "Ostatni miesiąc",
+  "Last name": "Nazwisko",
+  "merchant": {
+    "offer_type": {
+      "hybrid": "hybrydowy",
+      "product": "produkt",
+      "service": "usługa"
+    }
+  },
+  "Name": "Nazwa",
+  "Out of stock": "Brak w zapasach",
+  "Phone": "Numer telefonu",
+  "Restocking": "Uzupełnianie zapasów",
+  "second": "s",
+  "seconds": "s",
+  "SIREN number": "Numer SIREN",
+  "SIRET number": "Numer SIRET",
+  "Soon out of stock": "Wkrótce nastąpi brak w zapasach",
+  "Start time": "Godzina rozpoczęcia",
+  "Starts on": "Rozpoczyna się",
+  "status": {
+    "merchant": {
+      "active": "Aktywny",
+      "deleted": "Usunięto",
+      "inactive": "Nieaktywny",
+      "paused": "Wstrzymano",
+      "pending": "Oczekiwanie",
+      "stopped": "Zatrzymano"
+    },
+    "merchant_order": {
+      "authorization": {
+        "cancelled": "anulowano"
+      },
+      "cancelled": "Anulowano",
+      "confirmed": "Potwierdzono",
+      "deleted": "usunięto",
+      "expired": "Wygasło",
+      "finalized": "Sfinalizowano",
+      "incident_status": {
+        "closed": "Zamknięto",
+        "no_incident": "Brak zdarzenia",
+        "pending_customer": "Oczekiwanie na klienta",
+        "pending_merchant": "Oczekiwanie na handlowca",
+        "processing": "Przetwarzanie"
+      },
+      "initial": "Wstępny",
+      "payment": {
+        "authorized": "Autoryzowano płatność",
+        "failure": "Niepowodzenie płatności",
+        "partial": {
+          "failure": "Częściowe niepowodzenie płatności",
+          "success": "Częściowo opłacono"
+        },
+        "success": "Opłacono",
+        "waiting": "Oczekiwanie na płatność"
+      },
+      "processed": "Przetworzono",
+      "received": "Otrzymano",
+      "refund": {
+        "partial": "Częściowo zwrócono środki"
+      },
+      "return": {
+        "pending": "Zwrot w toku",
+        "success": "Zwrócono"
+      },
+      "sent": "Wysłano"
+    },
+    "product_offer": {
+      "active": "Aktywny",
+      "banned": "Wykluczono",
+      "deleted": "Usunięto",
+      "draft": "Wersja robocza",
+      "inactive": "Nieaktywny",
+      "pending": "Oczekiwanie",
+      "trashed": "Przeniesiono do kosza"
+    },
+    "quote": {
+      "accepted": "Zaakceptowano",
+      "canceled": "Anulowano",
+      "deleted": "Usunięto",
+      "done": "Gotowe",
+      "draft": "Wersja robocza",
+      "emitted": "Wystawiono",
+      "modified": "Zmodyfikowano",
+      "refused": "Odrzucono",
+      "suspended": "Zawieszono"
+    },
+    "return": {
+      "accepted": "Zaakceptowano",
+      "cancelled": "Anulowano",
+      "closed_by_buyer": "Zamknięte przez nabywcę",
+      "closed_by_seller": "Zamknięte przez sprzedawcę",
+      "denied": "Odmówiono",
+      "open": "Otwarto",
+      "package_received": "Otrzymano paczkę"
+    }
+  },
+  "Subslot duration": "Czas trwania podprzedziału",
+  "Subslot offset": "Przesunięcie podprzedziału",
+  "This month": "Ten miesiąc",
+  "To be released": "Do wydania",
+  "Today": "Dziś",
+  "transition": {
+    "quote": {
+      "accept": "Akceptuj",
+      "cancel": "Anuluj",
+      "done": "Gotowe",
+      "emit": "Wystaw",
+      "refuse": "Odrzuć"
+    }
+  },
+  "Unknown error. Please contact the marketplace": "Nieznany błąd. Skontaktuj się z platformą handlową",
+  "Yesterday": "Wczoraj",
+  "Zipcode": "Kod pocztowy",
+  "{0} is invalid": "Wartość {0} jest nieprawidłowa",
+  "{0} is required": "Wartość {0} jest wymagana",
+  "{0} must be a non-negative number": "Wartość {0} musi być liczbą nieujemną",
+  "{0} must be a number": "Wartość {0} musi być liczbą",
+  "{0} must be a valid email": "Wartość {0} musi być prawidłowym adresem e-mail",
+  "{0} must be a valid url": "Wartość {0} musi być prawidłowym adresem URL",
+  "{0} must be at least {1} characters": "Wartość {0} musi mieć minimalnie następującą liczbę znaków: {1}",
+  "{0} must be at most {1} characters": "Wartość {0} musi mieć maksymalnie następującą liczbę znaków: {1}",
+  "{0} must be between {1} and {2}": "Wartość {0} musi mieścić się w przedziale od {1} do {2}",
+  "{0} must be between {1} and {2} characters": "Wartość {0} musi mieścić mieć od {1} do {2} znaków",
+  "{0} must be greater than or equal to {1}": "Wartość {0} musi być równa lub większa od {1}",
+  "{0} must be less than or equal to {1}": "Wartość {0} musi być równa lub mniejsza od {1}",
+  "{0} must be one of: {1}": "Wartość {0} musi być jedną z: {1}",
+  "{0} must be the same as {1}": "Wartość {0} musi być taka sama jak {1}",
+  "{0} must be {1} characters": "Wartość {0} musi mieć następującą liczbę znaków: {1}",
+  "{0} must only contain digits": "Wartość {0} może zawierać wyłącznie cyfry"
+}

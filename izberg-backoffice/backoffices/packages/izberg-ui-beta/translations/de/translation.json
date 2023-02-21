@@ -1,0 +1,142 @@
+{
+  "({{number}} elements)": "({{number}} Elemente)",
+  "A new version of {{featureName}} has been developed for you to have a better user experience.": "Eine neue Version von {{featureName}} wurde entwickelt, um Ihnen eine bessere Benutzererfahrung zu bieten.",
+  "Are you sure?": "Sind Sie sicher?",
+  "Cancel": "Abbrechen",
+  "Category": "Kategorie",
+  "Choose": "Wählen Sie",
+  "Confirm": "Bestätigen",
+  "Country": "Land",
+  "Currency": "Währung",
+  "Current year": "Laufendes Jahr",
+  "Custom": "Benutzerdefiniert",
+  "Customer": "Kunde",
+  "datagrid": {
+    "column_manager": {
+      "reset": "Standardwerte zurücksetzen",
+      "subtitle": "Wählen Sie die anzuzeigenden Spalten aus",
+      "title": "Konfigurieren Sie die Tabelle"
+    },
+    "export": {
+      "error": "Ein Fehler ist aufgetreten. Die Liste wurde nicht geschickt.",
+      "export": "Export",
+      "success": "Die aktuelle Liste wurde per E-Mail verschickt.",
+      "text": "Sie exportieren gerade die aktuelle Liste. Die exportierte Liste entspricht den aktuellen Filtern, die Sie angewendet haben. Exportdatei wird an {{email}} gesendet"
+    },
+    "filter_modal": {
+      "apply": "Anwenden",
+      "cancel": "Abbrechen",
+      "choose_a_date": "Ein Datum auswählen",
+      "title": "Filter"
+    },
+    "filters": {
+      "between": "Zwischen",
+      "exact": "Exakt",
+      "greater_than": "Größer als",
+      "greater_than_equal": "Größer als oder gleich",
+      "icontains": "Enthält",
+      "iendswith": "Endet mit",
+      "istartswith": "Beginnt mit",
+      "lower_than": "Kleiner als",
+      "lower_than_equal": "Kleiner als oder gleich"
+    },
+    "footer": {
+      "display_per_page": "Anzeigen pro Seite:",
+      "items": "Artikel",
+      "items_out_of": "Artikel aus",
+      "of_{{numberOfPages}}": "von {{numberOfPages}}",
+      "row_displayed": "von",
+      "rows_per_page": "Ergebnisse pro Seite:"
+    },
+    "no_data": "Keine Daten",
+    "toolbar": {
+      "add_new": "Neu hinzufügen",
+      "delete": "Löschen",
+      "filter_tooltip": "Filterliste",
+      "items_selected": "Artikel ausgewählt",
+      "manage_columns": "Spalten verwalten",
+      "refresh": "Aktualisieren",
+      "search_helptext": "Suche nach {{name}}"
+    }
+  },
+  "date": {
+    "from": "von",
+    "to": "an"
+  },
+  "Day": "Tag",
+  "Dismiss": "Verwerfen",
+  "Don't ask me again": "Nicht noch einmal fragen",
+  "editor": {
+    "buttons": {
+      "download_content": "Inhalt herunterladen",
+      "edit_content": "Inhalt bearbeiten",
+      "upload_content": "Inhalt hochladen"
+    }
+  },
+  "email": "E-Mail",
+  "Export": "Export",
+  "Export file will be sent to": "Export-Datei wird gesendet an",
+  "form_generator": {
+    "categories": {
+      "cross_attributes": "Kategorienübergreifende Attribute",
+      "help_text": "Ermöglicht das Abrufen der für jede Kategorie verfügbaren Attribute",
+      "label": "Kategorien"
+    },
+    "merchant": {
+      "label": "Händler nach Namen suchen"
+    }
+  },
+  "from": "von",
+  "From": "Von",
+  "Hour": "Stunde",
+  "However you are not yet configured on the new version of the module. Please note that the current version will be deprecated on {{date}}.": "Sie sind jedoch noch nicht für die neue Version des Moduls konfiguriert. Bitte beachten Sie, dass die aktuelle Version ab dem {{Datum}} veraltet sein wird.",
+  "Language": "Sprache",
+  "Last 12 months": "Letzte 12 Monate",
+  "Last 24 hours": "Letzte 24 Stunden",
+  "Last 30 days": "Letzte 30 Tage",
+  "Last 6 months": "Letzte 6 Monate",
+  "Last 7 days": "Letzte 7 Tage",
+  "Loading...": "Wird geladen ...",
+  "material_pickers": {
+    "cancel": "Abbrechen",
+    "clear": "Löschen",
+    "invalid": "Unbekannt",
+    "invalid_date": "Ungültiges Datumsformat",
+    "max_date": "Das Datum sollte nicht nach dem Höchstdatum liegen",
+    "min_date": "Das Datum sollte nicht vor dem Mindestdatum liegen",
+    "ok": "OK",
+    "today": "Heute"
+  },
+  "Merchant": "Händler",
+  "Month": "Monat",
+  "No data": "Keine Daten",
+  "No data for previous period.": "Keine Daten für vorherige Periode.",
+  "No results found": "Keine Ergebnisse gefunden",
+  "Operator": "Betreiber",
+  "Please choose one": "Bitte wählen Sie eines",
+  "Please contact your account manager in order to have a demo and to be configured on the new version.": "Wenden Sie sich an Ihren Account Manager, um eine Demo zu erhalten und in der neuen Version konfiguriert zu werden.",
+  "Previous month": "Vorheriger Monat",
+  "Previous period": "Vorherige Periode",
+  "Previous quarter": "Vorheriges Quartal",
+  "Previous year": "Vorheriges Jahr",
+  "Save": "Speichern",
+  "SAVE": "SAVE",
+  "This feature is still in progress. It is not yet ready to be used.": "Diese Funktion läuft noch. Sie ist noch nicht einsatzbereit",
+  "This month": "Diesen Monat",
+  "This semester": "Dieses Halbjahr",
+  "This week": "Diese Woche",
+  "This year": "Dieses Jahr",
+  "Threshold": "Schwelle",
+  "to": "an",
+  "To": "An",
+  "Today": "Heute",
+  "validator": {
+    "required": "Dieses Feld wird benötigt"
+  },
+  "Value": "Wert",
+  "Week": "Woche",
+  "Year": "Jahr",
+  "{{fileSize}} B": "{{fileSize}} B",
+  "{{fileSize}} KB": "{{fileSize}} KB",
+  "{{fileSize}} MB": "{{fileSize}} MB"
+}

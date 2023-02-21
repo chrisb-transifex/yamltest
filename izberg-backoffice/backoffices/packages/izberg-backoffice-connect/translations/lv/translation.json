@@ -1,0 +1,141 @@
+{
+  "Address": "Adrese",
+  "City": "Pilsēta",
+  "Country": "Valsts",
+  "Description": "Apraksts",
+  "Duration": "Ilgums",
+  "Ends on": "Beidzas",
+  "First name": "Vārds",
+  "Homemade on demand": "Pašdarinātas preces pēc pieprasījuma",
+  "In stock": "Ir noliktavā",
+  "Last month": "Pagājušajā mēnesī",
+  "Last name": "Uzvārds",
+  "merchant": {
+    "offer_type": {
+      "hybrid": "hibrīda",
+      "product": "prece",
+      "service": "Pakalpojums"
+    }
+  },
+  "Name": "Nosaukums",
+  "Out of stock": "Nav noliktavā",
+  "Phone": "Tālrunis",
+  "Restocking": "Krājumu atjaunošana",
+  "second": "sekunde",
+  "seconds": "sekundes",
+  "SIREN number": "SIREN numurs",
+  "SIRET number": "SIRET numurs",
+  "Soon out of stock": "Drīz vairs nebūs noliktavā",
+  "Start time": "Sākuma laiks",
+  "Starts on": "Sākas",
+  "status": {
+    "merchant": {
+      "active": "Aktīvs",
+      "deleted": "Dzēsts",
+      "inactive": "Neaktīvs",
+      "paused": "Pauzēts",
+      "pending": "Gaida",
+      "stopped": "Apturēts"
+    },
+    "merchant_order": {
+      "authorization": {
+        "cancelled": "atcelts"
+      },
+      "cancelled": "Atcelts",
+      "confirmed": "Apstiprināts",
+      "deleted": "dzēsts",
+      "expired": "Beidzies",
+      "finalized": "Pabeigts",
+      "incident_status": {
+        "closed": "Aizvērts",
+        "no_incident": "Nav incidenta",
+        "pending_customer": "Gaidošs klients",
+        "pending_merchant": "Gaidošs tirgotājs",
+        "processing": "Notiek apstrāde"
+      },
+      "initial": "Sākotnējais",
+      "payment": {
+        "authorized": "Maksājums atļauts",
+        "failure": "Maksājums neizdevies",
+        "partial": {
+          "failure": "Maksājums daļēji neizdevies",
+          "success": "Daļēji samaksāts"
+        },
+        "success": "Samaksāts",
+        "waiting": "Gaidošs maksājums"
+      },
+      "processed": "Apstrādāts",
+      "received": "Saņemts",
+      "refund": {
+        "partial": "Daļēji atmaksāts"
+      },
+      "return": {
+        "pending": "Notiek atdošana",
+        "success": "Atdots"
+      },
+      "sent": "Nosūtīts"
+    },
+    "product_offer": {
+      "active": "Aktīvs",
+      "banned": "Aizliegts",
+      "deleted": "Deleted",
+      "draft": "Uzmetums",
+      "inactive": "Neaktīvs",
+      "pending": "Gaida",
+      "trashed": "Izmests"
+    },
+    "quote": {
+      "accepted": "Pieņemts",
+      "canceled": "Atcelts",
+      "deleted": "Dzēsts",
+      "done": "Gatavs",
+      "draft": "Uzmetums",
+      "emitted": "Izdots",
+      "modified": "Modificēts",
+      "refused": "Noraidīts",
+      "suspended": "Aizturēts"
+    },
+    "return": {
+      "accepted": "Pieņemts",
+      "cancelled": "Atcelts",
+      "closed_by_buyer": "Aizvēris pircējs",
+      "closed_by_seller": "Aizvēris pārdevējs",
+      "denied": "Atteikts",
+      "open": "Atvērts",
+      "package_received": "Paka saņemta"
+    }
+  },
+  "Subslot duration": "Pakārtotā perioda ilgums",
+  "Subslot offset": "Pakārtotā perioda nobīde",
+  "This month": "Šomēnes",
+  "To be released": "Tiks izdots",
+  "Today": "Šodien",
+  "transition": {
+    "quote": {
+      "accept": "Pieņemt",
+      "cancel": "Atcelt",
+      "done": "Gatavs",
+      "emit": "Izdot",
+      "refuse": "Noraidīt"
+    }
+  },
+  "Unknown error. Please contact the marketplace": "Nezināma kļūda. Lūdzu, sazinieties ar tiešsaistes tirgu.",
+  "Yesterday": "Vakar",
+  "Zipcode": "Pasta indekss",
+  "{0} is invalid": "{0} ir nederīgs",
+  "{0} is required": "{0} ir nepieciešams",
+  "{0} must be a non-negative number": "{0} nedrīkst būt negatīvs skaitlis",
+  "{0} must be a number": "{0} jābūt skaitlim",
+  "{0} must be a valid email": "{0} jābūt derīgai e-pasta adresei",
+  "{0} must be a valid url": "{0} jābūt derīgam URL",
+  "{0} must be at least {1} characters": "{0} jāsastāv no vismaz {1} rakstzīmēm",
+  "{0} must be at most {1} characters": "{0} jāsastāv no ne vairāk kā {1} rakstzīmēm",
+  "{0} must be between {1} and {2}": "{0} jābūt starp {1} un {2}",
+  "{0} must be between {1} and {2} characters": "{0} jābūt starp {1} un {2} rakstzīmēm",
+  "{0} must be greater than or equal to {1}": "{0} jābūt lielākam par vai vienādam ar {1}",
+  "{0} must be less than or equal to {1}": "{0} jābūt mazākam par vai vienādam ar {1}",
+  "{0} must be one of: {1}": "{0} jābūt vienam no: {1}",
+  "{0} must be the same as {1}": "{0} jāsakrīt ar {1}",
+  "{0} must be {1} characters": "{0} jāsastāv no {1} rakstzīmēm",
+  "{0} must only contain digits": "{0} drīkst saturēt tikai ciparus"
+}

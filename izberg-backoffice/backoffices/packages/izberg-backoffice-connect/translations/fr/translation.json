@@ -1,0 +1,141 @@
+{
+  "Address": "Addresse",
+  "City": "Ville",
+  "Country": "Pays",
+  "Description": "Description",
+  "Duration": "Durée",
+  "Ends on": "Date de fin",
+  "First name": "Prénom",
+  "Homemade on demand": "Fait main sur demande",
+  "In stock": "En stock",
+  "Last month": "Mois dernier",
+  "Last name": "Nom",
+  "merchant": {
+    "offer_type": {
+      "hybrid": "hybrid",
+      "product": "produit",
+      "service": "service"
+    }
+  },
+  "Name": "Titre",
+  "Out of stock": "En rupture de stock",
+  "Phone": "Téléphone",
+  "Restocking": "En cours de réapprovisionnement",
+  "second": "seconde",
+  "seconds": "secondes",
+  "SIREN number": "Numéro de SIREN",
+  "SIRET number": "Numéro de SIRET",
+  "Soon out of stock": "Bientôt en rupture",
+  "Start time": "Heure de début",
+  "Starts on": "Date de début",
+  "status": {
+    "merchant": {
+      "active": "Actif",
+      "deleted": "Supprimé",
+      "inactive": "Inactif",
+      "paused": "En pause",
+      "pending": "En attente",
+      "stopped": "Stoppé"
+    },
+    "merchant_order": {
+      "authorization": {
+        "cancelled": "annulé"
+      },
+      "cancelled": "Annulée",
+      "confirmed": "Confirmée",
+      "deleted": "supprimé",
+      "expired": "Expirée",
+      "finalized": "Finalisée",
+      "incident_status": {
+        "closed": "Fermé",
+        "no_incident": "Aucun incident",
+        "pending_customer": "En attente du client",
+        "pending_merchant": "En attente du marchand",
+        "processing": "En cours de traitement"
+      },
+      "initial": "Initial",
+      "payment": {
+        "authorized": "Paiement autorisé",
+        "failure": "Paiement échoué",
+        "partial": {
+          "failure": "Paiement partiellement échoué",
+          "success": "Partiellement payée"
+        },
+        "success": "Payée",
+        "waiting": "Paiement en attente"
+      },
+      "processed": "Traitée",
+      "received": "Reçue",
+      "refund": {
+        "partial": "Remboursée partiellement"
+      },
+      "return": {
+        "pending": "Retour en cours",
+        "success": "Retournée"
+      },
+      "sent": "Envoyée"
+    },
+    "product_offer": {
+      "active": "Actif",
+      "banned": "Bannie",
+      "deleted": "Supprimé",
+      "draft": "Brouillon",
+      "inactive": "Inactif",
+      "pending": "En attente",
+      "trashed": "Supprimé"
+    },
+    "quote": {
+      "accepted": "Accepté",
+      "canceled": "Annulée",
+      "deleted": "Supprimé",
+      "done": "Terminé",
+      "draft": "Brouillon",
+      "emitted": "Émis",
+      "modified": "Modifié",
+      "refused": "Refusé",
+      "suspended": "Suspendu"
+    },
+    "return": {
+      "accepted": "Accepté",
+      "cancelled": "Annulé",
+      "closed_by_buyer": "Fermé par l'acheteur",
+      "closed_by_seller": "Fermé par le marchand",
+      "denied": "Refusé",
+      "open": "Ouvert",
+      "package_received": "Colis reçu"
+    }
+  },
+  "Subslot duration": "Durée du slot",
+  "Subslot offset": "Offset du slot",
+  "This month": "Ce mois ci",
+  "To be released": "Bientôt disponible",
+  "Today": "Aujourd'hui",
+  "transition": {
+    "quote": {
+      "accept": "Accepter",
+      "cancel": "Annuler",
+      "done": "Terminé",
+      "emit": "Émettre",
+      "refuse": "Refuser"
+    }
+  },
+  "Unknown error. Please contact the marketplace": "Erreur inconnue. Merci de contacter la marketplace",
+  "Yesterday": "Hier",
+  "Zipcode": "Code postal",
+  "{0} is invalid": "{0} est invalide",
+  "{0} is required": "{0} est obligatoire",
+  "{0} must be a non-negative number": "{0} doit être un nombre positif",
+  "{0} must be a number": "{0} doit être un nombre",
+  "{0} must be a valid email": "{0} doit être une addresse e-mail valide",
+  "{0} must be a valid url": "{0} doit être une url valide",
+  "{0} must be at least {1} characters": "{0} doit avoir au moins {1} caractères",
+  "{0} must be at most {1} characters": "{0} doit avoir au maximum {1} caractères",
+  "{0} must be between {1} and {2}": "{0} doit être entre {1} et {2}",
+  "{0} must be between {1} and {2} characters": "{0} doit avoir entre {1} et {2} caractères",
+  "{0} must be greater than or equal to {1}": "{0} doit être supérieur ou égal à {1}",
+  "{0} must be less than or equal to {1}": "{0} doit être inférieur ou égal à {1}",
+  "{0} must be one of: {1}": "{0} doit être dans: {1}",
+  "{0} must be the same as {1}": "{0} doit être égal à {1}",
+  "{0} must be {1} characters": "{0} doit avoir exactement {1} caractères",
+  "{0} must only contain digits": "{0} doit être composé uniquement de chiffres"
+}
