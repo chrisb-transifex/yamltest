@@ -1,0 +1,224 @@
+git: 
+  filters:
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/app-settings/translations/en/translation.json
+        translation_files_expression: 'packages/app-settings/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/common/translations/en/translation.json
+        translation_files_expression: 'packages/common/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-backoffice-application-settings-js/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-backoffice-application-settings-js/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-backoffice-applications-js/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-backoffice-applications-js/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-backoffice-areas-js/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-backoffice-areas-js/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-backoffice-attributes-js/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-backoffice-attributes-js/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-backoffice-base-ui/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-backoffice-base-ui/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-backoffice-brands-js/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-backoffice-brands-js/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-backoffice-categories-js/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-backoffice-categories-js/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-backoffice-channels-js/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-backoffice-channels-js/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-backoffice-connect/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-backoffice-connect/translations/<lang>/translation.json'
+
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-backoffice-dashboard-js/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-backoffice-dashboard-js/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-backoffice-discounts-js/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-backoffice-discounts-js/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-backoffice-gallery-js/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-backoffice-gallery-js/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-backoffice-inventory-js/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-backoffice-inventory-js/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-backoffice-mailer-js/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-backoffice-mailer-js/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-backoffice-messages-js/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-backoffice-messages-js/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-backoffice-onboarding-js/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-backoffice-onboarding-js/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-backoffice-orders/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-backoffice-orders/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-backoffice-payment-settings-js/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-backoffice-payment-settings-js/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-backoffice-permissions-js/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-backoffice-permissions-js/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-backoffice-product-families-js/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-backoffice-product-families-js/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-backoffice-quotes-js/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-backoffice-quotes-js/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-backoffice-seller-settings-js/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-backoffice-seller-settings-js/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-backoffice-seller-switcher-js/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-backoffice-seller-switcher-js/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-backoffice-sellers-js/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-backoffice-sellers-js/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-backoffice-shipping-js/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-backoffice-shipping-js/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-backoffice-store/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-backoffice-store/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-backoffice-taxes-js/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-backoffice-taxes-js/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-backoffice-transactions-js/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-backoffice-transactions-js/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-backoffice-users-js/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-backoffice-users-js/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-backoffice-webhooks-js/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-backoffice-webhooks-js/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-mapper-js/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-mapper-js/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-services-calendar-js/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-services-calendar-js/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/izberg-ui-beta/translations/en/translation.json
+        translation_files_expression: 'packages/izberg-ui-beta/translations/<lang>/translation.json'
+
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: packages/nav/translations/en/translation.json
+        translation_files_expression: 'packages/nav/translations/<lang>/translation.json'
+      
+      - filter_type: file
+        file_format: KEYVALUEJSON
+        source_language: en
+        source_file: backoffices/front/translations/en/translation.json
+        translation_files_expression: 'backoffices/front/translations/<lang>/translation.json'
