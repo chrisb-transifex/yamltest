@@ -3,7 +3,7 @@ git:
       - filter_type: file
         file_format: KEYVALUEJSON
         source_language: en
-        source_file: 'packages/app-settings/translations/en/translation.json'
+        source_file: packages/app-settings/translations/en/translation.json
         translation_files_expression: 'packages/app-settings/translations/<lang>/translation.json'
 
       - filter_type: file
